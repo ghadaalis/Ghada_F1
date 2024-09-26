@@ -23,13 +23,12 @@ struct ContentView: View {
             Button("continue") {
                 /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
             }
-            //Image(systemName: "globe")
-            //   .imageScale(.large)
-            // .foregroundStyle(.tint)
-            
+          
         }
         .padding()
     }
+    
+    //GHADA
 }
 
 #Preview {
